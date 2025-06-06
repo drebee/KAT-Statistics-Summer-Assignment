@@ -104,9 +104,10 @@ Run the code below. It will make a histogram plot of the MCQ scores.
 
 2. In the top menu bar, go to Tools > Version Control > Commit...
 
-3. In the box labeled "Commit message", type "Analyze MCQ data"
+3. Check the box next to the filename "KAT Statistics Summer Assignment.qmd"
 
-4. Click the "Commit" button
+4. In the box labeled "Commit message", type "Analyze MCQ data"
 
-5. 
+5. Click the "Commit" button
 
+6. In the top menu bar, go to Tools > Version Control > Push Branch
