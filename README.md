@@ -1,10 +1,19 @@
 # Step One: Install R and RStudio onto your computer
 
+Download R and RStudio: https://posit.co/download/rstudio-desktop/
+
+If you have Mac, Windows, or Linux, the link above will work. If you have a Chromebook, you can use posit Cloud instead: https://posit.cloud/plans/free.
+
 # Step Two: Install git onto your computer
+
+[Mac instructions](https://docs.google.com/document/d/1m9hM8lZ34T5NZ_1jGnrHCq3Imll729UFqGA2JwWjy6Y/edit?tab=t.0)
+[Windows instructions](https://docs.google.com/document/d/1jutuV_wWX01CJRfOH9P-kQBj-Iic-0aKkuacAjV_6Xc/edit?tab=t.0)
+[Chromebook instructions](https://docs.google.com/document/d/1jO545KCV-a9GTpt7gMd7IL1SWg5i0E32TOtMP2MZJgg/edit?tab=t.0)
+(it's usually already installed on Linux, or you can use a package manager)
 
 # Step Three: Clone this assignment onto your computer
 
-## 1. Get the repository URL
+## 3.1. Get the repository URL
 
 You will need the repository URL. That's the webpage that my invite link brought you to. The page looks like this:
 
@@ -14,11 +23,11 @@ Click on the green code button to get the URL of this page (see picture below), 
 
 ![image](https://github.com/user-attachments/assets/95ee97ff-1fa1-40e3-8ba5-7a1714ae7702)
 
-## 2. Open RStudio
+## 3.2. Open RStudio
 
 Make sure to open RStudio. NOT R.
 
-## 3. Make a new project
+## 3.3. Make a new project
 
 Go to File > New Project.
 
